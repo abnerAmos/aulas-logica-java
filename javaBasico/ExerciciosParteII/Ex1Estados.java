@@ -1,7 +1,7 @@
 package javaBasic.exercicios.nivelII;
 
 import java.util.Scanner;
-public class Exercicio1 {
+public class Ex1Estados {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

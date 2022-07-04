@@ -1,7 +1,7 @@
 package javaBasic.exercicios.nivelII;
 
 import java.util.Scanner;
-public class Exercicio4 {
+public class Ex4Quilowatts {
 
 
     public static void main(String[] args) {
